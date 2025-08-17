@@ -27,7 +27,7 @@ Test the Windscribe free VPN service, verify its functionality, and analyze its 
 
 ## Step 4: Verify IP Address
 - Checked `https://whatismyipaddress.com`.  
-- IP address changed from the original ISP IP (India) to a **French IP (Windscribe assigned)**. ✅  
+- IP address changed from the original ISP IP (India) to a **French IP (Windscribe assigned)**. 
 
 ---
 
