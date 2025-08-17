@@ -20,14 +20,14 @@ Test the Windscribe free VPN service, verify its functionality, and analyze its 
 ---
 
 ## Step 3: Connect to a VPN Server
-- Connected to the **France server**.  
+- Connected to the **Montreal server**.  
 - Connection established and stable.  
 
 ---
 
 ## Step 4: Verify IP Address
 - Checked `https://whatismyipaddress.com`.  
-- IP address changed from the original ISP IP (India) to a **French IP (Windscribe assigned)**. 
+- IP address changed from the original ISP IP (India) to a **Montreal IP (Windscribe assigned)**. 
 
 ---
 
@@ -66,9 +66,9 @@ Test the Windscribe free VPN service, verify its functionality, and analyze its 
 ---
 
 ## Conclusion
-Using **Windscribe**, the IP address was successfully masked to **France**, traffic was encrypted, and browsing worked normally with minor speed reductions.  
-VPNs are powerful for **privacy and security**, but reliance on free services should be cautious due to performance and trust concerns.  
-For long-term use, a **paid, no-log VPN** is recommended.
+- Using **Windscribe**, the IP address was successfully masked to **Montreal**, traffic was encrypted, and browsing worked normally with minor speed reductions.  
+- VPNs are powerful for **privacy and security**, but reliance on free services should be cautious due to performance and trust concerns.  
+- For long-term use, a **paid, no-log VPN** is recommended.
 
 ## Repository Structure
 ```
